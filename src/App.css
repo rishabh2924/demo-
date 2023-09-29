@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  color: #000;
+
+/* Title */
+font-family: DM Serif Display;
+
+font-style: normal;
+
+
+}
+@media screen and (max-width: 768px) {
+  body {
+    display: none; 
+  }
 }
 
 .App-logo {
